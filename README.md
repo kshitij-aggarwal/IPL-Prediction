@@ -1,2 +1,4 @@
-# Yelp-Restaurant
-Machine Learning Project to predict current operating status of a Restaurant
+# IPL Prediction
+	Every year the Indian Premier League (IPL) runs for about 2 months in April and May. This double round robin and playoffs knockout cricket tournament is an interesting format as any players can be combined for a team. Teams can choose up to 25 out of the 145 players within the pool, and their only limitation is the salary cap of approximately $6 million which is imposed on each team. The ultimate goal is to pick a team of players that is the most successful within the round robin stage as well as the double elimination playoffs.
+	This makes for an interesting sports analysis problem because most sports teams such as soccer and football are more resistant to roster change with the core of the team remaining the same each year. This is not necessarily the case for the IPL, and makes prediction of results a little bit more difficult and at the same time fun.
+
